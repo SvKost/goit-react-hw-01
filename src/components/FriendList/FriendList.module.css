@@ -1,8 +1,8 @@
 .friendList {
   list-style: none;
   display: flex;
-  gap: 10px;
-  justify-content: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
 }
 
 .friendListItem {
@@ -13,10 +13,11 @@
 
 .friendAvatar {
   width: 100px;
+  margin-bottom: 15px;
 }
 
 .friendName {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: bold;
 }
 

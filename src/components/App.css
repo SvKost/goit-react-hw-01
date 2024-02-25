@@ -5,6 +5,17 @@
   text-align: center;
 }
 
+.container {
+  max-width: 1250px;
+}
+
+.Profile,
+.FriendList,
+.TransactionHistory {
+  margin-bottom: 2rem; /* або будь-який інший відступ, який вам потрібен */
+}
+
+/* 
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -39,4 +50,4 @@
 
 .read-the-docs {
   color: #888;
-}
+} */
